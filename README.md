@@ -31,25 +31,23 @@ Persistent storage in MySQL
 🧑‍💻 Tech Stack
 Frontend
 
-React.js
-
-Axios
-
-CSS / Bootstrap
+  React.js
+  
+  Axios
+  
+  CSS / Bootstrap
 
 Backend
 
-Java
-
-Spring Boot
-
-Spring Data JPA
-
-MySQL Driver
+  Java
+  
+  Spring Boot
+  
+  MySQL Driver
 
 Database
 
-MySQL
+  MySQL
 
 🔗 API Operations (CRUD)
 Operation	Method	Description
